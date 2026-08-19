@@ -22,8 +22,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
+| [0867-transpose-matrix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0867-transpose-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
