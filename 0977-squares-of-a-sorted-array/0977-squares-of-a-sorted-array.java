@@ -6,9 +6,7 @@ class Solution {
         int left = 0;
         int right = n - 1;
 
-        // Fill result from largest to smallest
         for (int i = n - 1; i >= 0; i--) {
-
             int leftSquare = nums[left] * nums[left];
             int rightSquare = nums[right] * nums[right];
 
