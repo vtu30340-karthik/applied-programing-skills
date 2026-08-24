@@ -2,25 +2,25 @@ class Solution {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;
         int[] result = new int[n];
-        int left=0;
-        int right=n-1;
-        int insertPos=n-1;
-        while(left<=right)
-        {
-            int leftSquare=nums[left] *nums[left];
-            int rightSquare=nums[right] *nums[right];
-            if(leftSquare>rightSquare)
-            {
-                result[insertPos]=leftSquare;
+
+        int left = 0;
+        int right = n - 1;
+
+        // Fill result from largest to smallest
+        for (int i = n - 1; i >= 0; i--) {
+
+            int leftSquare = nums[left] * nums[left];
+            int rightSquare = nums[right] * nums[right];
+
+            if (leftSquare > rightSquare) {
+                result[i] = leftSquare;
                 left++;
-            }
-             else
-            {
-                result[insertPos]=rightSquare;
+            } else {
+                result[i] = rightSquare;
                 right--;
             }
-            insertPos--;
         }
+
         return result;
     }
 }
