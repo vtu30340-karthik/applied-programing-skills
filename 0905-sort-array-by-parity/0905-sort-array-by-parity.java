@@ -4,18 +4,12 @@ class Solution {
         int right = nums.length - 1;
 
         while (left < right) {
-            // Move left past even numbers
-            while (left < right && nums[left] % 2 == 0) {
+            if (nums[left] % 2 == 0) {
                 left++;
-            }
-
-            // Move right past odd numbers
-            while (left < right && nums[right] % 2 != 0) {
+            } else if (nums[right] % 2 != 0) {
                 right--;
-            }
-
-            // Swap odd on left with even on right
-            if (left < right) {
+            } else {
+                // Swap odd on left with even on right
                 int temp = nums[left];
                 nums[left] = nums[right];
                 nums[right] = temp;
