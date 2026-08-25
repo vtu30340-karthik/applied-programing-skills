@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
