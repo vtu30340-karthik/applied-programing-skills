@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
 ## Queue
 |  |
 | ------- |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
