@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0905-sort-array-by-parity) |
@@ -64,10 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1603-design-parking-system) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
