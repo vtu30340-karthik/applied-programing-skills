@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1603-design-parking-system) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1603-design-parking-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
