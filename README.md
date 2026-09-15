@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0867-transpose-matrix) |
@@ -88,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1600-throne-inheritance) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
