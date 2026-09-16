@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
+| [0933-number-of-recent-calls](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1603-design-parking-system) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
