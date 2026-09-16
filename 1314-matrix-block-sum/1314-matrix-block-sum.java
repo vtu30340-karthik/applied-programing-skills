@@ -3,38 +3,24 @@ class Solution {
         int m = mat.length;
         int n = mat[0].length;
 
-        // Prefix sum matrix
-        int[][] prefix = new int[m + 1][n + 1];
-
-        // Build prefix sum
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                prefix[i + 1][j + 1] =
-                    mat[i][j]
-                    + prefix[i][j + 1]
-                    + prefix[i + 1][j]
-                    - prefix[i][j];
-            }
-        }
-
         int[][] answer = new int[m][n];
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
 
-                // Find boundaries of the block
-                int r1 = Math.max(0, i - k);
-                int r2 = Math.min(m - 1, i + k);
+                int sum = 0;
 
-                int c1 = Math.max(0, j - k);
-                int c2 = Math.min(n - 1, j + k);
+                for (int r = Math.max(0, i - k);
+                     r <= Math.min(m - 1, i + k); r++) {
 
-                // Get sum using prefix sum
-                answer[i][j] =
-                    prefix[r2 + 1][c2 + 1]
-                    - prefix[r1][c2 + 1]
-                    - prefix[r2 + 1][c1]
-                    + prefix[r1][c1];
+                    for (int c = Math.max(0, j - k);
+                         c <= Math.min(n - 1, j + k); c++) {
+
+                        sum += mat[r][c];
+                    }
+                }
+
+                answer[i][j] = sum;
             }
         }
 
