@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1600-throne-inheritance) |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [1603-design-parking-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1603-design-parking-system) |
 ## Array
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -133,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
