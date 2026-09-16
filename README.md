@@ -87,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1600-throne-inheritance) |
 ## Sliding Window
 |  |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
