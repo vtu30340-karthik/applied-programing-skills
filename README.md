@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
+| [0901-online-stock-span](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1600-throne-inheritance) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
 ## Recursion
 |  |
@@ -164,8 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
