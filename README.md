@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1396-design-underground-system) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0641-design-circular-deque) |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
