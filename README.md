@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
