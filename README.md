@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1603-design-parking-system) |
 ## Two Pointers
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
