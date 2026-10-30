@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0905-sort-array-by-parity) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0905-sort-array-by-parity) |
