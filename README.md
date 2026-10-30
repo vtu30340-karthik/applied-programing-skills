@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0283-move-zeroes) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
