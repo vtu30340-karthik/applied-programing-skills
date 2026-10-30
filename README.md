@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0283-move-zeroes) |
