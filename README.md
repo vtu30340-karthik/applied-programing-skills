@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0496-next-greater-element-i) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search
 |  |
