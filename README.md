@@ -232,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0099-recover-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
