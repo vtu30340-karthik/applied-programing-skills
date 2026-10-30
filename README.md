@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1600-throne-inheritance) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/1600-throne-inheritance) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 ## Greedy
