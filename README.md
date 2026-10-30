@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0283-move-zeroes) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/vtu30340-karthik/applied-programing-skills/tree/master/0035-search-insert-position) |
 ## Dynamic Programming
 |  |
 | ------- |
